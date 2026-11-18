@@ -1,1 +1,11 @@
+- we use pascal for class names
+- for functions we use camelcase
+- constants are upper case
+- names are consistant
+- no magic numbers
+- every class and public function has a docstring
+- comments are made to explain why not what
 
+- never commit directly to main
+- one branch per feature
+- commit msgs start with a verb
